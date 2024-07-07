@@ -6,7 +6,10 @@ function App() {
 
   return (
     <>
-      <h1>hello</h1>
+    <BrowserRouter>
+    <h1>hello</h1>
+    </BrowserRouter>
+     
     </>
   )
 }
